@@ -1,5 +1,8 @@
 #ifndef COM_ARCANEINGENUITY_LOG_H
 
+#include <stdio.h>
+#include <stdarg.h>
+
 #ifndef LOG_TAG
 	#define LOG_TAG unknown
 #endif//
